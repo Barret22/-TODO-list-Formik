@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #282c34;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
